@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1780079218018,
+    "name": "Atividade Prática: Mapeamento de Riscos com Matriz 5x5",
+    "prob": 3,
+    "impact": 3,
+    "response": "(descrevam a estratégia da equipe"
+  },
+  {
+    "id": 1780082074703,
+    "name": "� Falta de açúcar no escritório",
+    "prob": 4,
+    "impact": 3,
+    "response": "e bom pra quem toma bastante cafe"
+  },
+  {
+    "id": 1780082228591,
+    "name": "🌩️ Tempestade danifica roteador de internet",
+    "prob": 5,
+    "impact": 5,
+    "response": "porque acaba com todos os sinais"
+  },
+  {
+    "id": 1780082279326,
+    "name": "👨‍💼 Gerente de projetos sai da empresa",
+    "prob": 3,
+    "impact": 3,
+    "response": "o impacto e medio"
+  },
+  {
+    "id": 1780082330094,
+    "name": "📉 Cliente reduz orçamento em 30% no meio do projeto",
+    "prob": 5,
+    "impact": 4,
+    "response": "os trabalhadores pararam de trabalhar"
+  },
+  {
+    "id": 1780082883054,
+    "name": "🐛 Bug crítico em produção no fim de semana",
+    "prob": 4,
+    "impact": 4,
+    "response": "fica dificio de concertar"
+  }
+]
