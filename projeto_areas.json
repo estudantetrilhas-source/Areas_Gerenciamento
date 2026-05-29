@@ -1,0 +1,135 @@
+{
+  "integracao": {
+    "tap": "Projeto: Sistema de Gestão de Tarefas\nPatrocinador: Diretoria de TI\nObjetivo: Implementar ferramenta interna em 3 meses."
+  },
+  "escopo": {
+    "entregas": [
+      "Módulo de autenticação",
+      "Dashboard de métricas"
+    ],
+    "atividades": [
+      "Levantamento de requisitos",
+      "Design de interface"
+    ]
+  },
+  "tempo": {
+    "cronograma": [
+      {
+        "atividade": "Definir escopo",
+        "responsavel": "David",
+        "validacao": "aprovado pelo exercito militar DECIMO PRIMEIRO",
+        "dataEntrega": "2026-06-15"
+      },
+      {
+        "atividade": "Desenvolvimento front-end",
+        "responsavel": "Davi",
+        "validacao": "Testes unitários",
+        "dataEntrega": "2026-06-17"
+      }
+    ]
+  },
+  "partes": {
+    "stakeholders": [
+      {
+        "nome": "João (Gerente)",
+        "estrategia": "Reuniões quinzenais"
+      },
+      {
+        "nome": "Usuários finais",
+        "estrategia": "Workshops de co-criação"
+      }
+    ]
+  },
+  "rh": {
+    "equipe": [
+      {
+        "papel": "Product Owner",
+        "responsavel": "Mariana",
+        "habilidades": "Visão de negócio"
+      },
+      {
+        "papel": "Dev Front-end",
+        "responsavel": "Lucas",
+        "habilidades": "HTML/CSS/JS"
+      }
+    ]
+  },
+  "comunicacao": {
+    "planoComunicacao": [
+      {
+        "canal": "Slack",
+        "frequencia": "Diário",
+        "responsavel": "Todos"
+      },
+      {
+        "canal": "E-mail semanal",
+        "frequencia": "Sexta-feira",
+        "responsavel": "PMO"
+      }
+    ]
+  },
+  "custos": {
+    "orcamentos": [
+      {
+        "atividade": "Pesquisa UX",
+        "equipe": 1200,
+        "materiais": 200,
+        "equipamentos": 300
+      },
+      {
+        "atividade": "Desenvolvimento",
+        "equipe": 5000,
+        "materiais": 0,
+        "equipamentos": 800
+      }
+    ]
+  },
+  "aquisicoes": {
+    "contratos": [
+      {
+        "fornecedor": "Cloud Solutions",
+        "objeto": "Hospedagem",
+        "status": "Em negociação"
+      }
+    ]
+  },
+  "riscos": {
+    "riscosLista": [
+      {
+        "descricao": "Atraso na aprovação",
+        "impacto": "Negativo",
+        "planoResposta": "Acionar plano de contingência"
+      },
+      {
+        "descricao": "Adoção de nova tecnologia acelera entrega",
+        "impacto": "Positivo",
+        "planoResposta": "Capacitar equipe"
+      },
+      {
+        "descricao": "",
+        "impacto": "Negativo",
+        "planoResposta": ""
+      }
+    ]
+  },
+  "qualidade": {
+    "criterios": [
+      {
+        "metrica": "Cobertura de testes > 80%",
+        "aceitacao": "Todos os PRs aprovados"
+      },
+      {
+        "metrica": "Tempo de resposta < 5s",
+        "aceitacao": "Auditoria de performance"
+      },
+      {
+        "metrica": "",
+        "aceitacao": ""
+      },
+      {
+        "metrica": "",
+        "aceitacao": ""
+      }
+    ]
+  }
+}
